@@ -10,14 +10,14 @@
  * 链接：https://leetcode-cn.com/problems/employee-importance/
  */
 
-/*
+
 // Definition for Employee.
-class Employee {
+class Employee
+{
     public int id;
     public int importance;
     public IList<int> subordinates;
 }
-*/
 
 class Solution
 {
