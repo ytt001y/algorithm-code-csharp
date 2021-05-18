@@ -12,5 +12,6 @@
 | 1081 | [不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/) |            [中等](LeetCode/0316_去除重复字母.cs)             |
 | 1310 | [子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) |           [中等](LeetCode/1310_子数组异或查询.cs)            |
 | 1418 | [长度为 n 的开心字符串中字典序第 k 小的字符串](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [中等](LeetCode/1415_长度为n的开心字符串中字典序第k小的字符串.cs) |
+| 1471 | [数组中的 k 个最强值](https://leetcode-cn.com/problems/the-k-strongest-values-in-an-array/) |          [中等](LeetCode/1471_数组中的k个最强值.cs)          |
 | 1486 | [数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/) |            [简单](LeetCode/1486_数组异或操作.cs)             |
 
